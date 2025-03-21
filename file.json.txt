@@ -1,0 +1,205 @@
+[
+  {
+    "name": "Aditya Verma",
+    "email": "aditya@gmail.com",
+    "password": "123",
+    "phone": "9871234560",
+    "type": "personal"
+  },
+  {
+    "name": "Priya Singh",
+    "email": "priya@gmail.com",
+    "password": "123",
+    "phone": "8762345671",
+    "type": "personal"
+  },
+  {
+    "name": "Kabir Khanna",
+    "email": "kabir@gmail.com",
+    "password": "123",
+    "phone": "7653456782",
+    "type": "personal"
+  },
+  {
+    "name": "Meera Das",
+    "email": "meera@gmail.com",
+    "password": "123",
+    "phone": "6544567893",
+    "type": "personal"
+  },
+  {
+    "name": "Ananya Nair",
+    "email": "ananya@gmail.com",
+    "password": "123",
+    "phone": "5435678904",
+    "type": "personal"
+  },
+  {
+    "name": "Ritvik Sharma",
+    "email": "ritvik@gmail.com",
+    "password": "123",
+    "phone": "4326789015",
+    "type": "personal"
+  },
+  {
+    "name": "Neha Chawla",
+    "email": "neha@gmail.com",
+    "password": "123",
+    "phone": "3217890126",
+    "type": "personal"
+  },
+  {
+    "name": "Aarav Tiwari",
+    "email": "aarav@gmail.com",
+    "password": "123",
+    "phone": "2108901237",
+    "type": "personal"
+  },
+  {
+    "name": "Sahil Kapoor",
+    "email": "sahil@gmail.com",
+    "password": "123",
+    "phone": "1099012348",
+    "type": "personal"
+  },
+  {
+    "name": "Jiya Sinha",
+    "email": "jiya@gmail.com",
+    "password": "123",
+    "phone": "1980123459",
+    "type": "personal"
+  },
+  {
+    "name": "Veer Malhotra",
+    "email": "veer@gmail.com",
+    "password": "123",
+    "phone": "9876543201",
+    "type": "personal"
+  },
+  {
+    "name": "Sana Qureshi",
+    "email": "sana@gmail.com",
+    "password": "123",
+    "phone": "8765432102",
+    "type": "personal"
+  },
+  {
+    "name": "Harsh Vardhan",
+    "email": "harsh@gmail.com",
+    "password": "123",
+    "phone": "7654321093",
+    "type": "personal"
+  },
+  {
+    "name": "Rhea Banerjee",
+    "email": "rhea@gmail.com",
+    "password": "123",
+    "phone": "6543210984",
+    "type": "personal"
+  },
+  {
+    "name": "Manav Joshi",
+    "email": "manav@gmail.com",
+    "password": "123",
+    "phone": "5432109875",
+    "type": "personal"
+  },
+  {
+    "name": "Pooja Iyer",
+    "email": "pooja@gmail.com",
+    "password": "123",
+    "phone": "4321098766",
+    "type": "personal"
+  },
+  {
+    "name": "Arya Saxena",
+    "email": "arya@gmail.com",
+    "password": "123",
+    "phone": "3210987657",
+    "type": "personal"
+  },
+  {
+    "name": "Ishita Mehra",
+    "email": "ishita@gmail.com",
+    "password": "123",
+    "phone": "2109876548",
+    "type": "personal"
+  },
+  {
+    "name": "Rahul Sharma",
+    "email": "rahul@gmail.com",
+    "password": "123",
+    "phone": "1098765439",
+    "type": "personal"
+  },
+  {
+    "name": "Simran Arora",
+    "email": "simran@gmail.com",
+    "password": "123",
+    "phone": "1987654320",
+    "type": "personal"
+  },
+  {
+    "name": "Devansh Mishra",
+    "email": "devansh@gmail.com",
+    "password": "123",
+    "phone": "9871234561",
+    "type": "personal"
+  },
+  {
+    "name": "Kiran Das",
+    "email": "kiran@gmail.com",
+    "password": "123",
+    "phone": "8762345672",
+    "type": "personal"
+  },
+  {
+    "name": "Aisha Qureshi",
+    "email": "aisha@gmail.com",
+    "password": "123",
+    "phone": "7653456783",
+    "type": "personal"
+  },
+  {
+    "name": "Vikas Tandon",
+    "email": "vikas@gmail.com",
+    "password": "123",
+    "phone": "6544567894",
+    "type": "personal"
+  },
+  {
+    "name": "Aniket Rathi",
+    "email": "aniket@gmail.com",
+    "password": "123",
+    "phone": "5435678905",
+    "type": "personal"
+  },
+  {
+    "name": "Krishna Yadav",
+    "email": "krishna@gmail.com",
+    "password": "123",
+    "phone": "4326789016",
+    "type": "personal"
+  },
+  {
+    "name": "Tara Anand",
+    "email": "tara@gmail.com",
+    "password": "123",
+    "phone": "3217890127",
+    "type": "personal"
+  },
+  {
+    "name": "Mohit Sehgal",
+    "email": "mohit@gmail.com",
+    "password": "123",
+    "phone": "2108901238",
+    "type": "personal"
+  },
+  {
+    "name": "Aditi Rao",
+    "email": "aditi@gmail.com",
+    "password": "123",
+    "phone": "1099012349",
+    "type": "personal"
+  }
+]
